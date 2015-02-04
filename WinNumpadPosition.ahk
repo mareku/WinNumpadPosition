@@ -22,7 +22,7 @@
 ; +----+-----+----+
 ;======================================================================
 ;ホットキー定義INI
-iniPath:="E:\00work\nemo\script\AutoHotkey\WinNumpadPosition.ini"
+iniPath:="WinNumpadPosition.ini"
 
 ;変数
 ;今の変更可能数
